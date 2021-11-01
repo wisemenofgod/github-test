@@ -12,5 +12,6 @@ package com.wisesmenofgod.git;
         System.out.println("你靠在我肩上,深呼吸怕遗忘");
         System.out.println("孩子们眼中的希望是什么形状");
         System.out.println("是否面包能当作早餐,还有碗热汤");
+        System.out.println("一盏黄昏久久地等,时间在旁闷不吭声");
     }
 }
