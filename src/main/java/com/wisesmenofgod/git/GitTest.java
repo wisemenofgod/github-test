@@ -7,5 +7,6 @@ package com.wisesmenofgod.git;
     public static void main(String[] args) {
         System.out.println("时间总会说出再见");
         System.out.println("海鸟跟鱼相爱,只是一场意外");
+        System.out.println("爱上着满珊瑚海");
     }
 }
