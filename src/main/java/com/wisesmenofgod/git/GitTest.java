@@ -10,5 +10,6 @@ package com.wisesmenofgod.git;
         System.out.println("爱上着满珊瑚海");
         System.out.println("我顶着大太阳,只想为你撑伞");
         System.out.println("你靠在我肩上,深呼吸怕遗忘");
+        System.out.println("孩子们眼中的希望是什么形状");
     }
 }
