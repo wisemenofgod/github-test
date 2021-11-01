@@ -9,5 +9,6 @@ package com.wisesmenofgod.git;
         System.out.println("海鸟跟鱼相爱,只是一场意外");
         System.out.println("爱上着满珊瑚海");
         System.out.println("我顶着大太阳,只想为你撑伞");
+        System.out.println("孩子们眼中的希望是什么形状");
     }
 }
